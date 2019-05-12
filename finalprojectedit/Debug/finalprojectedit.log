@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\dakota\desktop\data structures\finalprojectedit\finalprojectedit\source.cpp(140): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dakota\desktop\data structures\finalprojectedit\finalprojectedit\source.cpp(144): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dakota\desktop\data structures\finalprojectedit\finalprojectedit\source.cpp(177): warning C4018: '<': signed/unsigned mismatch
+  finalprojectedit.vcxproj -> C:\Users\dakota\Desktop\Data Structures\finalprojectedit\Debug\finalprojectedit.exe
